@@ -1,9 +1,9 @@
 [submodule "platforms"]
 	path = platforms
-	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/platforms
+	url = https://github.com/smadhuranga/stock-platforms.git
 [submodule "services"]
 	path = services
-	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/services
+	url = https://github.com/smadhuranga/stock-services.git
 [submodule "webapp"]
 	path = webapp
-	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/webapp
+	url = https://github.com/smadhuranga/stock-webapp.git
