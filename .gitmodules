@@ -1,0 +1,9 @@
+[submodule "platforms"]
+	path = platforms
+	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/platforms
+[submodule "services"]
+	path = services
+	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/services
+[submodule "webapp"]
+	path = webapp
+	url = file:///Users/supunmadhuranga/Desktop/CL/stock-main/webapp
